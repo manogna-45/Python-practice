@@ -7,4 +7,3 @@ try:
         print("Sufficient balance")
 except:
     print("Error")
-    
